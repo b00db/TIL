@@ -6,8 +6,7 @@
 
 ## ETC
 
-- [GET 요청](#get)
-- [POST 요청](#post)
+- [GET 요청과 POST 요청](https://github.com/b00db/TIL/blob/master/ETC/GET-POST.md)
 
 ## HTML
 
