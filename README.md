@@ -10,7 +10,7 @@
 
 ## HTML
 
-- [HTML 기본](https://github.com/b00db/TIL/blob/master/ETC/HTML.md)
+- [HTML 기본](https://github.com/b00db/TIL/blob/master/HTML/HTML.md)
 
 ## CSS
 
