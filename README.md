@@ -4,10 +4,13 @@
 
 ---
 
-### ETC
+## ETC
 
-### HTML
+- [GET 요청](#get)
+- [POST 요청](#post)
 
-### CSS
+## HTML
 
-### Servlet/JSP Programming
+## CSS
+
+## Servlet/JSP Programming
