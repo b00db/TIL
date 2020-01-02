@@ -10,8 +10,8 @@
 
 ## JAVA
 
-- [BufferedReader와 BufferedWriter를 활용한 빠른 입출력하기](https://github.com/b00db/TIL/blob/master/JAVA/IO)
-- [테스트케이스가 주워지지 않는 경우](https://github.com/b00db/TIL/blob/master/JAVA/EOF)
+- [BufferedReader와 BufferedWriter를 활용한 빠른 입출력하기](https://github.com/b00db/TIL/blob/master/JAVA/IO.md)
+- [테스트케이스가 주워지지 않는 경우](https://github.com/b00db/TIL/blob/master/JAVA/EOF.md)
 
 ## HTML
 
