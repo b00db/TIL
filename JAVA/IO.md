@@ -23,8 +23,8 @@ Scanner와 System.out.println 대신 BufferedReader와 BufferedWriter를 사용�
 
 공백단위 구분 ⅱ. String 클래스의 split() 메소드 사용
 
-```String array[] = s.split(" "); // 공백마다 데이터를 끊어서 배열에 넣음
-
+```
+String array[] = s.split(" "); // 공백마다 데이터를 끊어서 배열에 넣음
 ```
 
 ※ readLine 할 때마다 예외처리! -> 대게 'throws IOException', 'throws Exception' 사용
