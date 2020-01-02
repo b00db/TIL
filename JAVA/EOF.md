@@ -19,8 +19,8 @@ while(scanner.hasNextInt()) {
 
 ### 다른 언어는?
 
-- C :
+- C : <br>
   `while(scanf("%d %d", &a, &b) != EOF) {...}`
-- C++ :
-  `while(scanf("%d %d", &a, &b) != EOF) {...}`
+- C++ : <br>
+  `while(scanf("%d %d", &a, &b) != EOF) {...}` <br>
   `while(cin >> a >> b) {...}`
