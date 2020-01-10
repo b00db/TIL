@@ -51,10 +51,10 @@
 
 -> 부모 클래스에만 적용하면 됨
 
-ⅰ. `flex-direction: row` (디폴트) 일 경우 (= inline-block display)
+ⅰ. `flex-direction: row` (디폴트) 일 경우 (= inline-block display) <br>
 -> justify-content 는 수평으로, align-items 는 수직으로 적용됨
 
-ⅱ. flex-direction: column 일 경우 (= block display)
+ⅱ. flex-direction: column 일 경우 (= block display) <br>
 -> justify-content 는 수직으로, align-items 는 수평으로 적용됨
 
 > 반대!
