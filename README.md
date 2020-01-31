@@ -4,9 +4,9 @@
 
 ---
 
-## ETC
+## WEB
 
-- [GET 요청과 POST 요청](https://github.com/b00db/TIL/blob/master/ETC/GET-POST.md)
+- [GET 요청과 POST 요청](https://github.com/b00db/TIL/blob/master/WEB/GET-POST.md)
 
 ## JAVA
 
@@ -22,4 +22,6 @@
 
 - [CSS 기본](https://github.com/b00db/TIL/blob/master/CSS/CSS.md)
 
-## Servlet/JSP Programming
+## ETC
+
+- [아스키 코드 값 출력하기](https://github.com/b00db/TIL/blob/master/ETC/ASCII.md)
