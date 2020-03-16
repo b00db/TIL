@@ -7,6 +7,7 @@
 ## WEB
 
 - [GET 요청과 POST 요청](https://github.com/b00db/TIL/blob/master/WEB/GET-POST.md)
+- [리프래시와 리다이렉트](https://github.com/b00db/TIL/blob/master/WEB/REFRESH-REDIRECT.md)
 
 ## JAVA
 
