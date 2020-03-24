@@ -10,6 +10,10 @@
 - [리프래시(Refresh)와 리다이렉트(Redirect)](https://github.com/b00db/TIL/blob/master/WEB/REFRESH-REDIRECT.md)
 - [포워딩(Forwarding)과 인클루딩(Including)](https://github.com/b00db/TIL/blob/master/WEB/FORWARDING-INCLUDING.md)
 
+## ALGORITHM
+
+- [순환(Recursion)](https://github.com/b00db/TIL/blob/master/ALGORITHM/RECURSION.md)
+
 ## JAVA
 
 - [BufferedReader와 BufferedWriter를 활용한 빠른 입출력하기](https://github.com/b00db/TIL/blob/master/JAVA/IO.md)
