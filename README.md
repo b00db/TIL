@@ -9,6 +9,7 @@
 - [GET 요청과 POST 요청](https://github.com/b00db/TIL/blob/master/WEB/GET-POST.md)
 - [리프래시(Refresh)와 리다이렉트(Redirect)](https://github.com/b00db/TIL/blob/master/WEB/REFRESH-REDIRECT.md)
 - [포워딩(Forwarding)과 인클루딩(Including)](https://github.com/b00db/TIL/blob/master/WEB/FORWARDING-INCLUDING.md)
+- [데이터 보관소](https://github.com/b00db/TIL/blob/master/WEB/DataArchive.md)
 
 ## ALGORITHM
 
