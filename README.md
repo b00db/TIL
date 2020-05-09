@@ -14,6 +14,7 @@
 ## ALGORITHM
 
 - [순환(Recursion)](https://github.com/b00db/TIL/blob/master/ALGORITHM/RECURSION.md)
+- [정렬(Sort)](https://github.com/b00db/TIL/blob/master/ALGORITHM/SORT.md)
 
 ## JAVA
 
