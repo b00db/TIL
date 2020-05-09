@@ -37,3 +37,7 @@
 ### 순환적 알고리즘 설계
 
 - 암시적(implicit) 매개변수를 명시적(explicit) 매개변수로 바꾸어라!
+
+### 참조
+
+- [영리한 프로그래밍을 위한 알고리즘 강좌](https://www.inflearn.com/course/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%95%EC%A2%8C/dashboard)
