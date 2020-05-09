@@ -26,7 +26,7 @@
 
 # 선택 정렬(Selection Sort)
 
-![Selection Sort](/ALGORITHM/img/selection_sort.png)
+![Selection Sort](./ALGORITHM/img/selection_sort.png)
 
 ```
 selectionSort(A[], n)  // 배열 A[1...n]을 정렬
@@ -48,7 +48,7 @@ selectionSort(A[], n)  // 배열 A[1...n]을 정렬
 
 # 버블 정렬(Bubble Sort)
 
-![Bubble Sort](/ALGORITHM/img/bubble_sort.png)
+![Bubble Sort](./ALGORITHM/img/bubble_sort.png)
 
 ```
 bubbleSort(A[], n)  // 배열 A[1...n]을 정렬
@@ -70,7 +70,7 @@ bubbleSort(A[], n)  // 배열 A[1...n]을 정렬
 
 # 삽입 정렬(Insertion Sort)
 
-![Insertion Sort](/ALGORITHM/img/insertion_sort.png)
+![Insertion Sort](./ALGORITHM/img/insertion_sort.png)
 
 ![Insertion](/ALGORITHM/img/insertion.png)
 
