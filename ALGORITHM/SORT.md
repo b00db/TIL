@@ -75,7 +75,7 @@ bubbleSort(A[], n)  // 배열 A[1...n]을 정렬
 ![Insertion](/ALGORITHM/img/insertion.PNG)
 
 ```
-insetionSort(A[], n)  // 배열 A[1...n]을 정렬
+insertionSort(A[], n)  // 배열 A[1...n]을 정렬
 {
     for(i <- 2 to n) {  // ⅰ
         A[1...i]의 적당한 자리에 A[i]를 삽입한다;  // ⅱ
